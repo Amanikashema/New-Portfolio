@@ -260,6 +260,13 @@ SERVICES SECTION
   color: white;
   text-align: left;
 }
+
+@media (min-width: 417px) {
+  .img-fluid {
+    width: auto;
+    height: auto;
+  }
+}
 /*
 *
 =====================
